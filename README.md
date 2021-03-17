@@ -26,3 +26,7 @@
 -- Periodo
 
 -- Funciones
+
+
+
+fixeado
